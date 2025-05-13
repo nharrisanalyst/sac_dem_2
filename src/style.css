@@ -1,0 +1,119 @@
+:root{
+  background-color: #fff;
+  color: #172430;
+  font-family: Inter,system-ui,Avenir,Helvetica,Arial,sans-serif;
+}
+
+
+.main-grid{
+  width:100%;
+  text-align: center;
+  display:grid;
+
+}
+
+
+.sm-link{
+  display:inline-block;
+  height:25px;
+  width:25px;
+}
+
+#mainTitle{
+  font-size:42px;
+  text-decoration:bold;
+  text-align: left;
+  line-height: 46px;
+  margin-bottom: 16px;
+  padding-top:16px;
+}
+
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #535bf2;
+}
+.subTitle{
+  font-size:16px;
+  color:#555;
+  text:bold;
+  text-align: left;
+  line-height: 18px;
+  margin-bottom: 16px;
+}
+
+
+#authorTitle{
+  text-align: left;
+  margin-bottom:36px;
+  color:grey;
+}
+
+#me{
+  color:grey;
+  text-decoration: underline;
+}
+
+.subSources{
+  font-size:10px;
+  color:#555;
+  text:bold;
+  text-align: left;
+  line-height: 12px;
+  margin-bottom: 16px;
+}
+
+.subSourcesVideo{
+  font-size:14px;
+  color:#555;
+  text:bold;
+  text-align: left;
+  line-height: 16px;
+  margin-bottom: 16px;
+}
+
+
+#links{
+  text-align: center;
+  padding-top: 112px;
+}
+
+#mapid {
+  height: 650px;
+  width: 900px;
+  position: relative;
+}
+
+#links{
+  text-align: center;
+}
+
+.sm-link{
+  display:inline-block;
+  height:25px;
+  width:25px;
+}
+
+#me{
+  color:grey;
+  text-decoration: underline;
+}
+
+a {
+  color: gray;
+  text-decoration: underline;
+}
+
+#newsletter-title{
+  padding-top:16px;
+   padding-bottom:4px;
+}
+
+.flex-this-links{
+  display: flex;
+  gap:8px;
+  justify-content: center;
+}
